@@ -1,0 +1,7 @@
+font-family: 'Preahvihear', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Preahvihear&display=swap" rel="stylesheet">
